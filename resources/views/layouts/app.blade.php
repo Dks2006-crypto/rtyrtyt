@@ -8,8 +8,7 @@
 
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 
-
-    <script src="//unpkg.com/alpinejs" defer></script>
+    <!-- Alpine.js удалён - он уже включён в Livewire 3 -->
 
     <script src="https://cdn.jsdelivr.net/npm/heroicons@2.0.11/outline"></script>
 
